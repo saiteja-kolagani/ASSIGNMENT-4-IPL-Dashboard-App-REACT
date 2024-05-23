@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.bg-container-match-card {
+  background-color: #0f172a;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 340px;
+  width: 180px;
+  border-radius: 6px;
+  margin: 15px;
+}
+.team-logo-match-card {
+  width: 80px;
+}
+.competing-team {
+  font-size: 14px;
+}
+.text-container-match-card {
+  color: #ffffff;
+  text-align: center;
+}
+.figure-container-match-card {
+  align-self: stretch;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

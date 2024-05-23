@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.bg-container-team-matches {
+  background-image: linear-gradient(#a4261d, #1e293b);
+  min-height: 100vh;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.team-banner-team-matches {
+  width: 1000px;
+}
+.previous-match-container-team-matches {
+  list-style-type: none;
+  padding: 0px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 1000px;
+}

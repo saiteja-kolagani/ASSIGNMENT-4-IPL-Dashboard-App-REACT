@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.bg-container-latest-match {
+  display: flex;
+  width: 1000px;
+  justify-content: space-between;
+  padding: 20px;
+  margin-block: 20px;
+  background-color: #0f172a;
+  border-radius: 6px;
+  align-items: center;
+}
+.left-text-container-latest-match {
+  color: #ffffff;
+  text-align: start;
+  width: 30%;
+}
+.team-logo-latest-match {
+  width: 100px;
+  height: 100px;
+}
+.right-text-container-latest-match {
+  color: #ffffff;
+  text-align: end;
+  width: 30%;
+}
+p {
+  font-size: 14px;
+}
+
+.team-name {
+  font-size: 20px;
+}
+.team-logo-container-latest-match {
+  width: 30%;
+  text-align: center;
+}

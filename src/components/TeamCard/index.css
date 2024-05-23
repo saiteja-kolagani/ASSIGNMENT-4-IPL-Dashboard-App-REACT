@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.team-image-teamcard {
+  width: 80px;
+  margin-right: 10px;
+}
+.team-name-teamcard {
+  font-size: 18px;
+  text-align: center;
+}
+.team-container-teamcard {
+  display: flex;
+  align-items: center;
+  width: 300px;
+  padding: 20px;
+  height: 150px;
+}
+.btn-teamcard {
+  margin: 15px;
+  border: 1px solid #ffffff;
+  background-color: #ffffff33;
+  backdrop-filter: blur(10px);
+  border-radius: 8px;
+  cursor: pointer;
+  outline: none;
+}
